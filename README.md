@@ -1,2 +1,2 @@
 # EMBTDeviceConection
-eMeetTransn
+eMeet bluetooth iOS SDK
