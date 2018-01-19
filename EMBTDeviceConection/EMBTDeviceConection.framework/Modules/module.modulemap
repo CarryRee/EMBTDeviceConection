@@ -1,0 +1,6 @@
+framework module EMBTDeviceConection {
+  umbrella header "EMBTDeviceConection.h"
+
+  export *
+  module * { export * }
+}
